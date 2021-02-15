@@ -1,8 +1,9 @@
 belajar
 ~masih bingung buat branch
 ~tetap belajar sambil lihat video UNPAS
- *melihat serial UNPAS
+ *lihat youtube dan sambil praktik
 ~bismillah aja
  *jangan lupa berdoa
+ *melihat serial UNPAS
 ~menambahkan isi
 ~menambahkan commit baru
