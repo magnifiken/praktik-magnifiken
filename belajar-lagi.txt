@@ -1,6 +1,7 @@
 belajar
 ~masih bingung buat branch
 ~tetap belajar sambil lihat video UNPAS
+ *lihat youtube dan sambil praktik
 ~bismillah aja
-~menambahkan isi
+ *jangan lupa berdoa
 ~menambahkan commit baru
