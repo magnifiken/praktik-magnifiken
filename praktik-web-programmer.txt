@@ -3,7 +3,7 @@ praktik web programmer
   *nonton serial video Git dan GitHub UNPAS
 ~membuat akun GitHub
   *sudah
-  *susah
 ~membuat repository
   *dengan nama magnifiken
 ~belajar lebih lanjut
+  *belajar branch dan merge
