@@ -3,3 +3,4 @@ belajar
 ~tetap belajar sambil lihat video UNPAS
 ~bismillah aja
 ~menambahkan isi
+~menambahkan commit baru
