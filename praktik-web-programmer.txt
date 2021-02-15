@@ -5,5 +5,8 @@ praktik web programmer
   *sudah
 ~membuat repository
   *dengan nama magnifiken
+   ^buat branch baru di repo
+   ^membuat commit baru di branch
+   ^ini nanti dihapus
 ~belajar lebih lanjut
   *belajar branch dan merge
