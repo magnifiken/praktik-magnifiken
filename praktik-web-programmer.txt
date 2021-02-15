@@ -1,6 +1,7 @@
 praktik web programmer
 ~belajar Git dan GitHub
   *nonton serial video Git dan GitHub UNPAS
+   ^namatin serial GitHub di UNPAS
 ~membuat akun GitHub
   *sudah
 ~membuat repository
